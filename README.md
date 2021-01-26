@@ -1,2 +1,2 @@
-# minigames
-A set of web minigames in JavaScript.
+# guess-my-number
+Web minigame using HTML, CSS and JavaScript.
